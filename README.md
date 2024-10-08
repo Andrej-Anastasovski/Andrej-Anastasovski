@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi! I'm a freelance web developer and designer, currently pursuing a Master’s in Cybersecurity at the Technical University of Sofia.
+With a strong foundation in both front-end and back-end development, I thrive on creating efficient, user-friendly applications.
 
-<!--
-**Andrej-Anastasovski/Andrej-Anastasovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+Front-End: HTML, CSS, JavaScript, React
+Back-End: Python, C#, Java
+Databases: MySQL
+Tools & Technologies: Git, .NET, SQL
+📚 Education
+Master’s: Cybersecurity, Technical University of Sofia
+Bachelor’s: Informatics & Software Science, Technical University of Sofia
+🌟 Experience
+Freelance Web Developer & Graphic Designer
+Upwork | 2023 - Present
+Designed and developed responsive websites using HTML, CSS, and JavaScript.
+Created visual assets to enhance user experience and brand identity.
+Maintained a job success rate of 90%+ with an average client satisfaction rating of 4.8/5.
