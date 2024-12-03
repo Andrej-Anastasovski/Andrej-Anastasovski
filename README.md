@@ -1,6 +1,8 @@
 # 👋 Hi! I'm Andrej Anastasovski
 
-I’m a freelance web developer and designer, currently pursuing a Master’s in Cybersecurity at the Technical University of Sofia. With a strong foundation in both front-end and back-end development, I thrive on creating efficient, user-friendly applications.
+I’m a freelance web developer and designer, currently pursuing a Master’s Degree in CS at the Technical University of Sofia. With a strong foundation in both front-end and back-end development, I thrive on creating efficient, user-friendly applications.
+
+- [Visit my website](https://andrejanastasovski.me)
 
 ## 🚀 Skills
 - **Front-End:** HTML, CSS, JavaScript, React
